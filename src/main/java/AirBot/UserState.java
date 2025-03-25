@@ -1,4 +1,4 @@
-package org.example;
+package AirBot;
 
 public class UserState {
     private String origen;

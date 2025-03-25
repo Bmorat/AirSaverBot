@@ -1,4 +1,4 @@
-package org.example;
+package AirBot;
 
 import java.io.*;
 import java.net.HttpURLConnection;
